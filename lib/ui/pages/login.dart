@@ -56,7 +56,7 @@ class LoginPage extends StatelessWidget {
               SizedBox(height: 40,),
               FlatButton(
                 child: Text("Not registered? Signup", style: TextStyle(color: Colors.white),),
-                onPressed: () => Navigator.pushNamed(context, 'signup'),
+                onPressed: () {},
               )
             ],
           ),
