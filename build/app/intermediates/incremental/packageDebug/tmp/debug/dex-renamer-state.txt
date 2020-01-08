@@ -1,0 +1,4 @@
+#Wed Jan 08 18:54:38 NPT 2020
+base.0=/home/ramesh/Workspace/FlutterProjects/FLutter Nepal/project1_iremember/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
